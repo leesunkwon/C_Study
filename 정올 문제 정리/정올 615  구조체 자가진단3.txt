@@ -17,7 +17,7 @@ struct school {
 };
 
 int main() {
-    struct school p[2];
+    struct school p[2];  // 구조체 배열 사용
     scanf("%s %d %d", p[0].name, &p[0].korea, &p[0].english);
     scanf("%s %d %d", p[1].name, &p[1].korea, &p[1].english);
     
