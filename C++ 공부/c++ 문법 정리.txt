@@ -1,0 +1,4 @@
+c++ 문법 정리
+cout // printf 와 동일
+cin // scanf 와 동일
+endl // 개행문자 출력
